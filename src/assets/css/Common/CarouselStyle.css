@@ -1,0 +1,20 @@
+.carousel .control-dots {
+    position: absolute;
+    bottom: -25px;
+    width: 100%;
+    padding: 1px 0;
+    box-sizing: border-box;
+}
+
+.carousel .slide {
+    background: none;
+}
+.carousel-image {
+    width: 66% !important;
+    height: auto;
+    margin-top: -5%;
+  }
+
+  #movetop{
+    transform: translateY(-100%);
+  }
